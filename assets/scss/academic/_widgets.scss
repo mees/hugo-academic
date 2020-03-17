@@ -578,5 +578,9 @@ ul.ul-edu li .description p.institution {
     height: auto;
 }
 
-table {border: none;}
+
+table {
+    border: none;
+    border-collapse: collapse;
+}
 
